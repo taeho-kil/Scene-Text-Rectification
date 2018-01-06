@@ -37,7 +37,8 @@ We extract character components using a projection profile method, and separate 
 with the projection value of more than mean stroke with value.
 
 <p align="center">
-<img src="/seg1.png" width="300"> <img src="/seg2.png" width="300"> 
+<img src="/seg1.png" width="300">
+<img src="/seg2.png" width="300"> 
 </p>
 
 ### Text rectification
@@ -50,7 +51,8 @@ undistorted text have minimal values.
 We perform text rectification by using two alignment properties.
 
 <p align="center">
-<img src="/vert_align.png" width="300"> <img src="/hori_align.png" width="300"> 
+<img src="/vert_align.png" width="300">
+<img src="/hori_align.png" width="300"> 
 </p>
 
 
