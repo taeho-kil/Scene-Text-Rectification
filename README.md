@@ -50,7 +50,7 @@ undistorted text have minimal values.
 We perform text rectification by using two alignment properties.
 
 <p align="center">
-<img src="/vert_align.png" height="120"> <img src="/hori_align.png" height="120"> 
+<img src="/vert_align.png" height="120"> <img src="/hori_align.png" height="80"> 
 </p>
 
 
