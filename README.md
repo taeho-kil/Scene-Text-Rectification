@@ -31,13 +31,27 @@ First, we extract character components by using character segmentation, then we 
 <img src="/iter1.png" height="120"> <img src="/iter2.png" height="120"> 
 </p>
 
-
 ### Character segmentation
 
+We extract character components using a projection profile method, and separate characters 
+with the projection value of more than mean stroke with value.
 
-
+<p align="center">
+<img src="/seg1.png" height="120"> <img src="/seg2.png" height="120"> 
+</p>
 
 ### Text rectification
+
+Alignment of characters represent following two properties that are vertical and horizontal 
+alignment properties. The vertical alignment means that characters in the undistorted text 
+are aligned to the horizontal-straight lines, specifically the most top and bottom points of
+characters are on one of two lines. The horizontal alignment means that the character widhts of 
+undistorted text have minimal values. 
+We perform text rectification by using two alignment properties.
+
+<p align="center">
+<img src="/vert_align.png" height="120"> <img src="/hori_align.png" height="120"> 
+</p>
 
 
 ## Experimental results
