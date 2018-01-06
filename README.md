@@ -25,7 +25,13 @@ results.
 
 ## Algorithm
 
-First, we extract character components by using character segmentation, then we perform the text rectification by aligning the top and bottom points of all extracted characters.
+First, we extract character components by using character segmentation, then we perform the text rectification by aligning the top and bottom points of all extracted characters. Better segmentation needs better rectification and vice versa, then we perform them iteratively.
+
+<p align="center">
+<img src="/iter1.png" width="700"> 
+<img src="/iter2.png" width="700"> 
+</p>
+
 
 ### Character segmentation
 
