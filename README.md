@@ -59,6 +59,7 @@ We perform text rectification by using two alignment properties.
 ## Experimental results
 ### Scene text dataset
 
+
 ### OCR accuracy
 
 ### Rectified text images
