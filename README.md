@@ -37,8 +37,8 @@ We extract character components using a projection profile method, and separate 
 with the projection value of more than mean stroke with value.
 
 <p align="center">
-</p>
 <img src="/seg1.png" width="300">
+</p>
 <p align="center">
 <img src="/seg2.png" width="300"> 
 </p>
