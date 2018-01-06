@@ -52,7 +52,7 @@ We perform text rectification by using two alignment properties.
 
 <p align="center">
 <img src="/vert_align.png" width="300">
-<img src="/hori_align.png" width="300"> 
+<img src="/hori_align.png" width="450"> 
 </p>
 
 
