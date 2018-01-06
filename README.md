@@ -28,7 +28,7 @@ results.
 First, we extract character components by using character segmentation, then we perform the text rectification by aligning the top and bottom points of all extracted characters. Better segmentation needs better rectification and vice versa, then we perform them iteratively.
 
 <p align="center">
-<img src="/iter1.png" height="100"> <img src="/iter2.png" height="100"> 
+<img src="/iter1.png" height="150"> <img src="/iter2.png" height="150"> 
 </p>
 
 
