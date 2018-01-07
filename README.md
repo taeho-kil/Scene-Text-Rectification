@@ -43,7 +43,7 @@ with the projection value of more than mean stroke with value.
 
 ### Text rectification
 
-Alignment of characters represent following two properties that are vertical and horizontal 
+Alignment of characters represents following two properties that are vertical and horizontal 
 alignment properties. The vertical alignment means that characters in the undistorted text 
 are aligned to the horizontal-straight lines, specifically the most top and bottom points of
 characters are on one of two lines. The horizontal alignment means that the character widhts of 
