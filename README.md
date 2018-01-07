@@ -75,9 +75,7 @@ They are binarized text images and include English and Chinese characters.
 
 ### OCR accuracy
 The performance is evaluated in terms of OCR accuracy, which is defined as
-\begin{equation}
-\mbox{accuracy}(R,G)=1-\dfrac{L(R,G)}{\max(\#R,\#G)},
-\end{equation}
+![equation](<a href="https://www.codecogs.com/eqnedit.php?latex=accuracy(R,G)=100&space;\times&space;(1-\frac{L(R,G)}{max(\overline{R},\overline{G})})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?accuracy(R,G)=100&space;\times&space;(1-\frac{L(R,G)}{max(\overline{R},\overline{G})})" title="accuracy(R,G)=100 \times (1-\frac{L(R,G)}{max(\overline{R},\overline{G})})" /></a>)
 where $R$ is a recognition result string, $G$ is the ground truth string, $\#(\cdot)$ is the number of characters in the string, and $L(x,y)$ means the Levenshtein distance between two strings \citep{levenstein1965binary}. The distance is defined as the minimum number of character edits (insertion, deletion, and substitution) to transform one string to the other.
 
 ### Rectified text images
