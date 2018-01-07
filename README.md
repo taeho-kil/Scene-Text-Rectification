@@ -57,12 +57,13 @@ We perform text rectification by using two alignment properties.
 <p align="center">
 vertical & horizontal alignment properties
 </p>
+
 <p align="center">
 <img src="/recti.png" width="700">
 </p>
-
-
-
+<p align="center">
+rectification using alignment properties
+</p>
 
 ## Experimental results
 ### Scene text dataset
