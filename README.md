@@ -81,7 +81,7 @@ The performance is evaluated in terms of OCR accuracy, which is defined as
 where ![equation](https://latex.codecogs.com/gif.latex?R) is a recognition result string, ![equation](https://latex.codecogs.com/gif.latex?G) is the ground truth string, ![equation](https://latex.codecogs.com/gif.latex?\overline{X}) is the number of characters in the string, and ![equation](https://latex.codecogs.com/gif.latex?L(X,Y)) means the Levenshtein distance between two strings. The distance is defined as the minimum number of character edits (insertion, deletion, and substitution) to transform one string to the other. 
 
 <p align="center">
-<img src="/image/table.png" width="800"> 
+<img src="/table.png" width="800"> 
 </p>
 
 TILT means the result of [2].
