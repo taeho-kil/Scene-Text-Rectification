@@ -67,12 +67,22 @@ rectification using alignment properties
 
 ## Experimental results
 ### Scene text dataset
-
+We evaluate our method on the scene text dataset [2], that is consisted of real and synthetic text images. 
+They are binarized text images and include English and Chinese characters.
+<p align="center">
+<img src="/dataset.png" width="350">
+</p>
 
 ### OCR accuracy
+The performance is evaluated in terms of OCR accuracy, which is defined as
+\begin{equation}
+\mbox{accuracy}(R,G)=1-\dfrac{L(R,G)}{\max(\#R,\#G)},
+\end{equation}
+where $R$ is a recognition result string, $G$ is the ground truth string, $\#(\cdot)$ is the number of characters in the string, and $L(x,y)$ means the Levenshtein distance between two strings \citep{levenstein1965binary}. The distance is defined as the minimum number of character edits (insertion, deletion, and substitution) to transform one string to the other.
 
 ### Rectified text images
 
 ## Excutable program
 ## Reference
-
+[1]
+[2]
