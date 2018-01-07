@@ -73,19 +73,6 @@ They are binarized text images and include English and Chinese characters.
 <img src="/dataset.png" width="350">
 </p>
 
-### OCR accuracy
-The performance is evaluated in terms of OCR accuracy, which is defined as
-
-![equation](https://latex.codecogs.com/gif.latex?accuracy(R,G)=100&space;\times&space;(1-\frac{L(R,G)}{max(\overline{R},\overline{G})}))
-
-where ![equation](https://latex.codecogs.com/gif.latex?R) is a recognition result string, ![equation](https://latex.codecogs.com/gif.latex?G) is the ground truth string, ![equation](https://latex.codecogs.com/gif.latex?\overline{X}) is the number of characters in the string, and ![equation](https://latex.codecogs.com/gif.latex?L(X,Y)) means the Levenshtein distance between two strings. The distance is defined as the minimum number of character edits (insertion, deletion, and substitution) to transform one string to the other. 
-
-<p align="center">
-<img src="/table.png" width="800"> 
-</p>
-
-TILT means the result of [2].
-
 ### Rectified text images
 
 
