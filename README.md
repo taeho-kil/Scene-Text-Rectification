@@ -82,4 +82,5 @@ comming soon...
 
 ## Reference
 [1] Z Zhang, A Ganesh, X Liang and Y Ma, "TILT: Transform Invariant Low-Rank Textures", IJCV 2012.
+
 [2] B Wang, C Liu and X Ding, "A Scheme for Automatic Text Rectification in Real Scene Images", SPIE/IS&T 2015.
