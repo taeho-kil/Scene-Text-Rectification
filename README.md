@@ -74,7 +74,13 @@ They are binarized text images and include English and Chinese characters.
 </p>
 
 ### Rectified text images
+## real scene text images
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
+## synthetic text images
 
 
 ## Excutable program
