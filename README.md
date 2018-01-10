@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="/abs.png" width="700"> 
+<img src="/algorithm_image/abs.png" width="700"> 
 </p>
 
 ## Abstract
@@ -28,7 +28,7 @@ results.
 First, we extract character components by using character segmentation, then we perform the text rectification by aligning the top and bottom points of all extracted characters. Better segmentation needs better rectification and vice versa, then we perform them iteratively.
 
 <p align="center">
-<img src="/iter1.png" height="120"> <img src="/iter2.png" height="120"> 
+<img src="/algorithm_image/alg1.png" height="120"> <img src="/algorithm_image/alg2.png" height="120"> 
 </p>
 
 ### Character segmentation
@@ -37,8 +37,8 @@ We extract character components using a projection profile method, and separate 
 with the projection value of more than mean stroke with value.
 
 <p align="center">
-<img src="/seg1.png" height="80">
-<img src="/seg2.png" height="120"> 
+<img src="/algorithm_image/seg1.png" height="80">
+<img src="/algorithm_image/seg2.png" height="120"> 
 </p>
 
 ### Text rectification
@@ -51,15 +51,15 @@ undistorted text have minimal values.
 We perform text rectification by using two alignment properties.
 
 <p align="center">
-<img src="/vert_align.png" width="350">
-<img src="/hori_align.png" width="380"> 
+<img src="/algorithm_image/align_vert.png" width="350">
+<img src="/algorithm_image/align_hori.png" width="380"> 
 </p>
 <p align="center">
 vertical & horizontal alignment properties
 </p>
 
 <p align="center">
-<img src="/recti.png" width="700">
+<img src="/algorithm_image/rectify.png" width="700">
 </p>
 <p align="center">
 rectification using alignment properties
@@ -70,7 +70,7 @@ rectification using alignment properties
 We evaluate our method on the scene text dataset [2], that is consisted of real and synthetic text images. 
 They are binarized text images and include English and Chinese characters.
 <p align="center">
-<img src="/dataset.png" width="350">
+<img src="/algorithm_image/dataset.png" width="350">
 </p>
 
 ### Rectified text images
@@ -81,5 +81,5 @@ They are binarized text images and include English and Chinese characters.
 comming soon...
 
 ## Reference
-[1]
-[2]
+[1] Z Zhang, A Ganesh, X Liang and Y Ma, "TILT: Transform Invariant Low-Rank Textures", IJCV 2012.
+[2] B Wang, C Liu and X Ding, "A Scheme for Automatic Text Rectification in Real Scene Images", SPIE/IS&T 2015.
