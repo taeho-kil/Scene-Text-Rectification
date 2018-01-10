@@ -75,10 +75,9 @@ They are binarized text images and include English and Chinese characters.
 
 ### Rectified text images
 ## real scene text images
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Input image   |    TILT [1]   |   Proposed    |
+| ------------- | ------------- | ------------- |
+| <img src="/algorithm_image/rectify.png" width="700">  | <img src="/algorithm_image/rectify.png" width="700">  | <img src="/algorithm_image/rectify.png" width="700">  |
 
 ## synthetic text images
 
