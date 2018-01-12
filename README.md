@@ -77,30 +77,30 @@ They are binarized text images and include English and Chinese characters.
 ## real scene text images
 | Input image   |    TILT [1]   |   Proposed    |
 | ------------- | ------------- | ------------- |
-| <img src="/results/real_scene/1_in.jpg" width="700">  | <img src="/results/real_scene/1_TILT.png" width="700">  | <img src="/results/real_scene/1_proposed.png" width="700">  |
-| <img src="/results/real_scene/2_in.jpg" width="700">  | <img src="/results/real_scene/2_TILT.png" width="700">  | <img src="/results/real_scene/2_proposed.png" width="700">  |
-| <img src="/results/real_scene/3_in.jpg" width="700">  | <img src="/results/real_scene/3_TILT.png" width="700">  | <img src="/results/real_scene/3_proposed.png" width="700">  |
-| <img src="/results/real_scene/4_in.jpg" width="700">  | <img src="/results/real_scene/4_TILT.png" width="700">  | <img src="/results/real_scene/4_proposed.png" width="700">  |
-| <img src="/results/real_scene/5_in.jpg" width="700">  | <img src="/results/real_scene/5_TILT.png" width="700">  | <img src="/results/real_scene/5_proposed.png" width="700">  |
-| <img src="/results/real_scene/6_in.jpg" width="700">  | <img src="/results/real_scene/6_TILT.png" width="700">  | <img src="/results/real_scene/6_proposed.png" width="700">  |
-| <img src="/results/real_scene/7_in.jpg" width="700">  | <img src="/results/real_scene/7_TILT.png" width="700">  | <img src="/results/real_scene/7_proposed.png" width="700">  |
-| <img src="/results/real_scene/8_in.jpg" width="700">  | <img src="/results/real_scene/8_TILT.png" width="700">  | <img src="/results/real_scene/8_proposed.png" width="700">  |
-| <img src="/results/real_scene/9_in.jpg" width="700">  | <img src="/results/real_scene/9_TILT.png" width="700">  | <img src="/results/real_scene/9_proposed.png" width="700">  |
-| <img src="/results/real_scene/10_in.jpg" width="700">  | <img src="/results/real_scene/10_TILT.png" width="700">  | <img src="/results/real_scene/10_proposed.png" width="700">  |
+| <img src="/results/real_scene/1_in.jpg" width="400">  | <img src="/results/real_scene/1_TILT.png" width="400">  | <img src="/results/real_scene/1_proposed.png" width="400">  |
+| <img src="/results/real_scene/2_in.jpg" width="400">  | <img src="/results/real_scene/2_TILT.png" width="400">  | <img src="/results/real_scene/2_proposed.png" width="400">  |
+| <img src="/results/real_scene/3_in.jpg" width="400">  | <img src="/results/real_scene/3_TILT.png" width="400">  | <img src="/results/real_scene/3_proposed.png" width="400">  |
+| <img src="/results/real_scene/4_in.jpg" width="400">  | <img src="/results/real_scene/4_TILT.png" width="400">  | <img src="/results/real_scene/4_proposed.png" width="400">  |
+| <img src="/results/real_scene/5_in.jpg" width="400">  | <img src="/results/real_scene/5_TILT.png" width="400">  | <img src="/results/real_scene/5_proposed.png" width="400">  |
+| <img src="/results/real_scene/6_in.jpg" width="400">  | <img src="/results/real_scene/6_TILT.png" width="400">  | <img src="/results/real_scene/6_proposed.png" width="400">  |
+| <img src="/results/real_scene/7_in.jpg" width="400">  | <img src="/results/real_scene/7_TILT.png" width="400">  | <img src="/results/real_scene/7_proposed.png" width="400">  |
+| <img src="/results/real_scene/8_in.jpg" width="400">  | <img src="/results/real_scene/8_TILT.png" width="400">  | <img src="/results/real_scene/8_proposed.png" width="400">  |
+| <img src="/results/real_scene/9_in.jpg" width="400">  | <img src="/results/real_scene/9_TILT.png" width="400">  | <img src="/results/real_scene/9_proposed.png" width="$00">  |
+| <img src="/results/real_scene/10_in.jpg" width="400">  | <img src="/results/real_scene/10_TILT.png" width="400">  | <img src="/results/real_scene/10_proposed.png" width="400">  |
 
 ## synthetic text images
 | Input image   |    TILT [1]   |   Proposed    |
 | ------------- | ------------- | ------------- |
-| <img src="/results/synthetic/1_in.bmp" width="700">  | <img src="/results/synthetic/1_TILT.png" width="700">  | <img src="/results/synthetic/1_proposed.png" width="700">  |
-| <img src="/results/synthetic/2_in.bmp" width="700">  | <img src="/results/synthetic/2_TILT.png" width="700">  | <img src="/results/synthetic/2_proposed.png" width="700">  |
-| <img src="/results/synthetic/3_in.bmp" width="700">  | <img src="/results/synthetic/3_TILT.png" width="700">  | <img src="/results/synthetic/3_proposed.png" width="700">  |
-| <img src="/results/synthetic/4_in.bmp" width="700">  | <img src="/results/synthetic/4_TILT.png" width="700">  | <img src="/results/synthetic/4_proposed.png" width="700">  |
-| <img src="/results/synthetic/5_in.bmp" width="700">  | <img src="/results/synthetic/5_TILT.png" width="700">  | <img src="/results/synthetic/5_proposed.png" width="700">  |
-| <img src="/results/synthetic/6_in.bmp" width="700">  | <img src="/results/synthetic/6_TILT.png" width="700">  | <img src="/results/synthetic/6_proposed.png" width="700">  |
-| <img src="/results/synthetic/7_in.bmp" width="700">  | <img src="/results/synthetic/7_TILT.png" width="700">  | <img src="/results/synthetic/7_proposed.png" width="700">  |
-| <img src="/results/synthetic/8_in.bmp" width="700">  | <img src="/results/synthetic/8_TILT.png" width="700">  | <img src="/results/synthetic/8_proposed.png" width="700">  |
-| <img src="/results/synthetic/9_in.bmp" width="700">  | <img src="/results/synthetic/9_TILT.png" width="700">  | <img src="/results/synthetic/9_proposed.png" width="700">  |
-| <img src="/results/synthetic/10_in.bmp" width="700">  | <img src="/results/synthetic/10_TILT.png" width="700">  | <img src="/results/synthetic/10_proposed.png" width="700">  |
+| <img src="/results/synthetic/1_in.bmp" width="400">  | <img src="/results/synthetic/1_TILT.png" width="400">  | <img src="/results/synthetic/1_proposed.png" width="400">  |
+| <img src="/results/synthetic/2_in.bmp" width="400">  | <img src="/results/synthetic/2_TILT.png" width="400">  | <img src="/results/synthetic/2_proposed.png" width="400">  |
+| <img src="/results/synthetic/3_in.bmp" width="400">  | <img src="/results/synthetic/3_TILT.png" width="400">  | <img src="/results/synthetic/3_proposed.png" width="400">  |
+| <img src="/results/synthetic/4_in.bmp" width="400">  | <img src="/results/synthetic/4_TILT.png" width="400">  | <img src="/results/synthetic/4_proposed.png" width="400">  |
+| <img src="/results/synthetic/5_in.bmp" width="400">  | <img src="/results/synthetic/5_TILT.png" width="400">  | <img src="/results/synthetic/5_proposed.png" width="400">  |
+| <img src="/results/synthetic/6_in.bmp" width="400">  | <img src="/results/synthetic/6_TILT.png" width="400">  | <img src="/results/synthetic/6_proposed.png" width="400">  |
+| <img src="/results/synthetic/7_in.bmp" width="400">  | <img src="/results/synthetic/7_TILT.png" width="400">  | <img src="/results/synthetic/7_proposed.png" width="400">  |
+| <img src="/results/synthetic/8_in.bmp" width="400">  | <img src="/results/synthetic/8_TILT.png" width="400">  | <img src="/results/synthetic/8_proposed.png" width="400">  |
+| <img src="/results/synthetic/9_in.bmp" width="400">  | <img src="/results/synthetic/9_TILT.png" width="400">  | <img src="/results/synthetic/9_proposed.png" width="400">  |
+| <img src="/results/synthetic/10_in.bmp" width="400">  | <img src="/results/synthetic/10_TILT.png" width="400">  | <img src="/results/synthetic/10_proposed.png" width="400">  |
 
 ## Excutable program
 comming soon...
