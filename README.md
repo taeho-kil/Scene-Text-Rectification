@@ -74,7 +74,7 @@ They are binarized text images and include English and Chinese characters.
 </p>
 
 ### Rectified text images
-## real scene text images
+#### real scene text images
 | Input image   |    TILT [1]   |   Proposed    |
 | ------------- | ------------- | ------------- |
 | <img src="/results/real_scene/1_in.jpg" width="200">  | <img src="/results/real_scene/1_TILT.png" width="200">  | <img src="/results/real_scene/1_proposed.png" width="200">  |
@@ -88,7 +88,7 @@ They are binarized text images and include English and Chinese characters.
 | <img src="/results/real_scene/9_in.jpg" width="200">  | <img src="/results/real_scene/9_TILT.png" width="200">  | <img src="/results/real_scene/9_proposed.png" width="200">  |
 | <img src="/results/real_scene/10_in.jpg" width="200">  | <img src="/results/real_scene/10_TILT.png" width="200">  | <img src="/results/real_scene/10_proposed.png" width="200">  |
 
-## synthetic text images
+#### synthetic text images
 | Input image   |    TILT [1]   |   Proposed    |
 | ------------- | ------------- | ------------- |
 | <img src="/results/synthetic/1_in.bmp" width="200">  | <img src="/results/synthetic/1_TILT.png" width="200">  | <img src="/results/synthetic/1_proposed.png" width="200">  |
